@@ -10,7 +10,7 @@ Oppo A73 (Android 10, 1080×2400) için yapılmış, tek ekranlı ve çevrimdı�
 - **Gider:** Tutar, kategori, tarih ve isteğe bağlı bir not. Tarih sadece o dönemin günleri arasında seçilebiliyor. Bir gidere dokununca düzenleme ve silme ekranı açılıyor.
 - **Ana ekran:** Kalan para (büyük yazıyla), harcanan oranını gösteren bir çubuk, Gelir ve Gider kartları, "Nereye gitti?" kategori özeti ve güne göre gruplanmış harcama listesi.
 - **Veri:** Sadece telefonda saklanıyor (`AsyncStorage`, anahtar `gelir-gider:v1`). İnternet ya da hesap gerekmiyor.
-- **Arayüz:** Koyu tema. Ekleme ve düzenleme ekranları Android'deki tam ekran pencere düzeninde ve Kaydet butonu üstte duruyor, böylece klavye açıkken de görünüyor.
+- **Arayüz:** Koyu tema (zinc nötrler, tek vurgu rengi zümrüt), Geist + Geist Mono fontları, Phosphor ikonları (emoji yok), basınca küçülen butonlar, sırayla beliren listeler, yüklenirken iskelet ekran ve formlarda alan altında hata mesajı. Ana ekranda "maaşa X gün, günde Y ₺" bilgisi var. Ekleme ve düzenleme ekranları Android'deki tam ekran pencere düzeninde ve Kaydet butonu üstte duruyor, böylece klavye açıkken de görünüyor.
 
 ## Mevcut durum
 
